@@ -1,0 +1,6 @@
+nltk
+numpy
+pandas
+sklearn
+requests
+gradio
