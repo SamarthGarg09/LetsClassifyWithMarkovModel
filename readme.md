@@ -18,7 +18,7 @@
 * class 1: Robert Frost
 
 ### Confusion metrics
-<img src="confusion-metrics.png" alt="poem_classification" style="width:70%;">
+<img src="output.png" alt="poem_classification" style="width:50%;height:50%">
 
 ### Test and Train accuracy
 * Train Accuracy : 0.897
