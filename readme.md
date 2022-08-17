@@ -4,7 +4,7 @@
 
 > Markov rule - The current state depends only on its previous state
 
-> $ P(x1, x2, x3) = P(x1)*P(x2/x1)*p(x3/x2)$ 
+> $P(x1, x2, x3) = P(x1)*P(x2/x1)*p(x3/x2)$ 
 * Notice that conditional probabilites just depends on one previous state this is the assumption which we'll be carrying to build this model.
 
 ### Datset link : 
